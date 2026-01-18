@@ -34,7 +34,7 @@ export const trainingSteps = [
             },
             {
                 id: "level_check",
-                label: "Is the camera level?",
+                label: "Is the camera at the chest height and level?",
                 type: "boolean",
                 feedback: { yes: "Good.", no: "Use the spirit level to adjust." }
             }
